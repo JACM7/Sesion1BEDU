@@ -1,0 +1,19 @@
+body {
+	background: black;
+}
+
+h1 {
+	color: red;
+}
+
+.color {
+	color: #FF4757;
+}
+
+.formu {
+	color: white;
+}
+
+button {
+	background: red;
+}
